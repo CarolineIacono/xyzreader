@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/carolinestewart/Documents/Android Nanodegree/xyzreadermain/XYZReader/build/intermediates/res/merged/debug/transition/explode.xml",
+        "source": "/Users/carolinestewart/Documents/Android Nanodegree/xyzreadermain/XYZReader/src/main/res/transition/explode.xml"
+    },
+    {
+        "merged": "/Users/carolinestewart/Documents/Android Nanodegree/xyzreadermain/XYZReader/build/intermediates/res/merged/debug/transition/slide.xml",
+        "source": "/Users/carolinestewart/Documents/Android Nanodegree/xyzreadermain/XYZReader/src/main/res/transition/slide.xml"
+    }
+]
